@@ -1,6 +1,7 @@
-
-
 # ThermoColumn-AirMatrix
+
+
+![ThermoColumn-AirMatrix main image](https://github.com/BeeEvolved/ThermoColumn-AirMatrix/blob/main/media/ThermoColumn-AirMatrixImage1%20(3).jpg)
 
 ### Title: Advanced Thermal Management System for Semiconductor Chip Cooling
 
@@ -10,7 +11,7 @@
 As semiconductor chips continue to grow in power density, efficient cooling solutions are necessary to maintain optimal performance and extend the lifespan of electronic devices. Traditional cooling methods often fail to provide the sustained thermal management required for high-performance and compact applications. The presented design introduces an innovative heatsink with an integrated fan mount, optimized fin geometry, and a central thermal column. This advanced design maximizes passive and active cooling effects.
 
 ---
-
+![ThermoColumn-AirMatrix gif](https://github.com/BeeEvolved/ThermoColumn-AirMatrix/blob/main/media/IRLgif.GIF)
 ## Abstract:
 This invention describes a unique design that combines advanced thermodynamic principles to efficiently manage heat dissipation from semiconductor chips. The design includes a central thermal column, optimized fin structure, and a strategically placed air gap, enabling both passive and active cooling. When paired with a fan, this assembly offers enhanced thermal regulation, reduced noise, and minimized mechanical stress on the chip.
 
